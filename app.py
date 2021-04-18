@@ -1,6 +1,7 @@
 import tkinter as tk
-from tkinter import filedialog, Text
-import subprocess, os
+from tkinter import filedialog
+import subprocess
+import os
 
 root = tk.Tk()
 apps = []
